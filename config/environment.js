@@ -25,8 +25,7 @@ module.exports = function(environment) {
       'img-src': "'self' data: www.gravatar.com gravatar.com",
       'style-src': "'self' fonts.googleapis.com",
       'media-src': "'self'"
-    },
-
+    }
   };
 
 
